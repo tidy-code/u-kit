@@ -1,0 +1,19 @@
+{
+  "name": "@tidycode/u-kit",
+  "version": "0.0.1",
+  "description": "Universal Html UI kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tidy-code/u-kit.git"
+  },
+  "author": "tidycode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tidy-code/u-kit/issues"
+  },
+  "homepage": "https://github.com/tidy-code/u-kit#readme"
+}
